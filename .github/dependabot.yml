@@ -1,6 +1,0 @@
-version: 2
-updates:
-  - package-ecosystem: "npm" # Cambia esto si usas otro gestor (ej. "pip" para Python)
-    directory: "/" # La ruta donde está tu package.json ("/" para la raíz)
-    schedule:
-      interval: "daily" # Puedes usar "weekly" o "monthly"
